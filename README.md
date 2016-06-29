@@ -27,7 +27,7 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 
 ## example usage
 Below are some projects that make use of the word associations dictionary:
-- [verb finder](https://github.com/monolithpl/taboo-cards)
+- [Verb Finder](https://github.com/monolithpl/verb-finder)
 
 MIT License
 
