@@ -10,6 +10,7 @@ The most comprehensive dictionary of English verb forms online today, combining 
 - csv / excel format in ```csv``` folder
 - json format in ```json``` folder
 - packed trie format in ```packedtrie``` folder
+
 Additionally, three sets of the Verb Forms Dictinary are available:
 - ```verbs-dictionaries``` - authoritative, human compiled list of verbs and their verb forms
 - ```verbs-automatic``` - unverified list of verbs from Python NLP Research (may contain errors, non-verbs or even non-words)
