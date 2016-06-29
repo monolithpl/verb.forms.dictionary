@@ -5,8 +5,6 @@ The most comprehensive dictionary of English verb forms online today, combining 
  * unverified verb forms from [Python NLP Research](https://github.com/simonhughes22/PythonNlpResearch)
 
 ## demo
-![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
-![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
 
 ##data format
 - csv / excel format in ```csv``` folder
@@ -19,9 +17,10 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 
 ###file format
 All the files are in the following format:
-|Verb - Base form / Infinitive / Present Simple / 1st Person|Present Simple / 3rd Person|Past Simple|Past Participle|Present Participle (-ing)|
-|(I / you / we / they)|(he / she / it)|(all)|(all)|(all)|
-|-------|-------|-------|-------|-------|
+Utility | Arch | Source url | Folder|
+|-------|---------------|------------|-------|
+
+
 |abstract|abstracts|abstracted|abstracted|abstracting|
 |begin|begins|began|begun|beginning|
 |burn|burns|burned|burned|burning|
