@@ -20,7 +20,7 @@ All the files are in the following format:
 
 |Verb - Base form / Infinitive / Present Simple / 1st Person | Present Simple / 3rd Person | Past Simple | Past Participle | Present Participle (-ing)|
 |-------|---------------|------------|-------|-----|
-|(I / you / we / they) | (he / she / it) | (all) | (all) | (all)|
+|_(I / you / we / they)_ | _(he / she / it)_ | _(all)_ | _(all)_ | _(all)_|
 |abstract|abstracts|abstracted|abstracted|abstracting|
 |begin|begins|began|begun|beginning|
 |burn|burns|burned|burned|burning|
