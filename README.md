@@ -17,8 +17,6 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 - ```verbs-all``` - the two above lists combined
 
 ###file format
-All the files are in the following format:
-
 |Verb - Base form / Infinitive / Present Simple / 1st Person | Present Simple / 3rd Person | Past Simple | Past Participle | Present Participle (-ing)|
 |-------|---------------|------------|-------|-----|
 |_(I / you / we / they)_ | _(he / she / it)_ | _(all)_ | _(all)_ | _(all)_|
