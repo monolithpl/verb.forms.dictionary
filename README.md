@@ -6,7 +6,8 @@ The most comprehensive dictionary of English verb forms online today, combining 
 
 ## demo
 
-##data format
+## data format
+
 - csv / excel format in ```csv``` folder
 - json format in ```json``` folder
 - packed trie format in ```packedtrie``` folder
@@ -16,7 +17,8 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 - ```verbs-automatic``` - unverified list of verbs from Python NLP Research (may contain errors, non-verbs or even non-words)
 - ```verbs-all``` - the two above lists combined
 
-###file format
+### file format
+
 |Verb - Base form / Infinitive / Present Simple / 1st Person | Present Simple / 3rd Person | Past Simple | Past Participle | Present Participle (-ing)|
 |-------|---------------|------------|-------|-----|
 |_(I / you / we / they)_ | _(he / she / it)_ | _(all)_ | _(all)_ | _(all)_|
@@ -26,6 +28,7 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 |burn|burns|burnt|burnt|burning|
 
 ## example usage
+
 Below are some projects that make use of the word associations dictionary:
 - [Verb Finder](https://github.com/monolithpl/verb-finder)
 
