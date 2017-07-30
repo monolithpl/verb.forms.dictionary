@@ -4,9 +4,7 @@ The most comprehensive dictionary of English verb forms online today, combining 
  * British and American verb forms in [Longman Dictionary of Contemporary English 6th edition](http://www.ldoceonline.com/)
  * unverified verb forms from [Python NLP Research](https://github.com/simonhughes22/PythonNlpResearch)
 
-## demo
-
-## data format
+### data format
 
 - csv / excel format in ```csv``` folder
 - json format in ```json``` folder
@@ -27,7 +25,7 @@ Additionally, three sets of the Verb Forms Dictinary are available:
 |burn|burns|burned|burned|burning|
 |burn|burns|burnt|burnt|burning|
 
-## example usage
+### example usage
 
 Below are some projects that make use of the word associations dictionary:
 - [Verb Finder](https://github.com/monolithpl/verb-finder)
